@@ -23,7 +23,7 @@ Descripcion:
 
 Reqerimiento:
 Tipo:
-Prioridad:
+Prioridad:Hola Nico
 Descripcion:
 
 
